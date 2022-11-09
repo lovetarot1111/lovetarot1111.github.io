@@ -1,0 +1,12 @@
+{% assign seconds= site.time | date: "%s" | plus:100 %}
+{% assign random = page.title.size | plus: seconds | modulo: 78 %}
+<a title="Need a quality print lab? Try our Lab,  ProLabPrints.com - AKA Fromex Photo"
+   <h1>{{random}}</h1>
+<!--   href="{{site.data.ads[random].url}}" rel="nofollow">-->
+<!--    <div class="ad-div">-->
+<!--        <p class="ad-p">-->
+<!--            <img class="img-responsive-cent" src="/assets/img/{{site.data.ads[random].image}}"><br />-->
+<!--            {{ site.data.ads[random].text }}-->
+<!--        </p>-->
+<!--    </div>-->
+</a>
