@@ -1,6 +1,6 @@
 ---
 layout: post
-title: of Pentacles
+title: Seven of Pentacles
 ---
 
 ![](../images/Seven-of-Pentacles-Tarot-Card-Meaning-732x1024.webp)
