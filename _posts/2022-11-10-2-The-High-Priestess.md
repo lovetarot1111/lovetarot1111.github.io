@@ -49,7 +49,6 @@ If you and your partner talk openly about your inner desires, they can greatly e
 
 The High Priestess can be a sign, that both partners should devote more time to their feelings for each other, which unfortunately do not find room in everyday life. Try to create free time, in which you can again fully reflect on your common dreams and desires.
 
-Do you want to know how your love life is developing? Draw your Love Tarot Card now for free!
 
 ### Health
 
@@ -59,7 +58,6 @@ Learn to get more in touch with your intuition and listen to your body. Your inn
 
 Furthermore, The High Priestess encourages you to withdraw from everyday life for a while to get back in touch with yourself. This way, you can recharge your batteries and learn to listen more to the needs of your body and mind.
 
-Do you want to know how your health situation is developing? Draw your Health Tarot Card now for free!
 
 ### Career
 
@@ -71,7 +69,6 @@ In addition, The High Priestess stands for the fact that you will receive unexpe
 
 You can only find out whether you will use these opportunities for yourself if you listen to your inner voice, which will always be a faithful advisor to you in such important decisions.
 
-Do you want to know how your professional situation develops? Draw your Career Tarot Card now for free!
 
 ### Finances/Money
 
@@ -81,7 +78,6 @@ When you see money for what it is, a simple paper bill, it loses its power over 
 
 Another possible interpretation is that you let your creativity and intuition decide more about money transactions. Your intuition will tell you quickly and reliably whether you should try a new contract or an investment or rather leave it alone.
 
-Do you want to know how your financial situation is developing? Draw your Finance/Money Tarot Card now for free!
 
 ### Destiny
 
@@ -89,7 +85,6 @@ For your destiny, The High Priestess indicates a high connection to your inner s
 
 Only if you are in contact with your subconscious mind and learn to trust your intuition blindly, the latter will lead you through all hurdles of life unscathed.
 
-Do you want to know what your destiny has in store for you? Draw your Destiny Tarot Card now for free!
 
 ### Personality
 The High Priestess reveals a person who trusts strongly in her own intuition. All her actions and thoughts depend on her gut feeling, which always helps her.
