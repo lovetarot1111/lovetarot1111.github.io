@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: You are in trouble. Can I help you?
+subtitle: May I help you?
 ---
 
-Check my instagram **lovetarot1111**.
+Contact me via instagram [lovetarot1111](https://www.instagram.com/lovetarot1111/).
