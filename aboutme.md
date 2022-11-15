@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: May I help you?
+subtitle: A tarot and tea-leaf reader
 ---
+
+Tarot is an instrument that reveals hidden things of the world and makes sense out of visible ones.
 
 Contact me via instagram [lovetarot1111](https://www.instagram.com/lovetarot1111/).
